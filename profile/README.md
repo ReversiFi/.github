@@ -57,8 +57,7 @@ ReversiFi stands out by offering a blend of simplicity, security, and customizat
 
 ## ⚒️Architecture
 We will use Grab as Example in this case. 
-<img width="776" alt="image" src="https://github.com/user-attachments/assets/94b77ade-2ee7-49d5-80ec-b8803886eef8">
-
+<img width="1336" alt="image" src="https://github.com/user-attachments/assets/831bef99-08a0-4f6f-bdbf-2acb18c12ace">
 
 ---
 

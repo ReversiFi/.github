@@ -2,7 +2,7 @@
 
 ## 👀 What is ReversiFi?
 
-**ReversiFi** is a non-custodial wallet software development kit that enables businesses to effortlessly integrate secure crypto payment solutions into their marketplace apps with minimal coding. The SDK empowers users by giving them full control over their private keys, enhancing security and trust in the payment process.
+**ReversiFi** provides an SDK for businesses to integrate non-custodial crypto payments into their marketplace applications with just one simple line of code. With a non-custodial architecture, the SDK ensures users have full control over their private keys, eliminating custody risk while enhancing trust and security.
 
 ---
 
@@ -20,15 +20,9 @@
 
 ---
 
-## 📖 Introduction
-
-ReversiFi is designed to provide businesses with a simple line of code to integrate crypto payments into their marketplace apps. With a non-custodial architecture, the SDK ensures that users retain full control over their private keys, eliminating custodial risks while enhancing trust and security.
-
----
-
 ## ‼️ Problem Statement
 
-ReversiFi aims to address the major challenges faced in the crypto payment space:
+There's a few major challenges faced in the crypto payment space pending to be solved:
 
 - **Custodial Risks**: Many existing crypto payment solutions are custodial, which means businesses hold users' private keys, creating significant security risks.
 - **High Integration Barriers**: Integrating crypto payment solutions is often complex, requiring significant resources and expertise.
@@ -74,6 +68,9 @@ We will use Grab as Example in this case.
 - Solidity
 - React
 - Typescript
+- Javascript
+- Foundry
+- Supabase
 
 ---
 

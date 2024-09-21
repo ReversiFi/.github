@@ -82,22 +82,21 @@ We will use Grab as Example in this case.
 ### Hedera
 #### EVM Starter Bounty
 1. [Link](link)
+### Linea
+#### [Linea Sepolia Escrow Factory](https://sepolia.lineascan.build/address/0xcc46df1620Bb0Afb9cfaeDA385131C3e0ef293ab#code)
+#### [Linea Sepolia Automation Contract](https://sepolia.lineascan.build/address/0x330dfC3dF587E6cA008f570cFACBaB0b1080206C#code)
 
 ### Rootstock
-#### Deploy on xxxx
-1. [Link](link)
+#### [Rootstock Testnet Escrow Factory](https://explorer.testnet.rootstock.io/address/0x0D998D2126B9cC4F2BD1b58F55548a617bDeC27b?__ctab=general)
+#### [Rootstock Testnet Automation Contract](https://explorer.testnet.rootstock.io/address/0x163d4769A180b87B41cBddB4863CeB59b39EbD7D?__ctab=general)
 
 ### Flow
-#### Deploy on xxxx
-1. [Link](link)
-
-### Linea
-#### Deploy on xxxx
-1. [Link](link)
+#### [Flow EVM Escrow Factory](https://evm-testnet.flowscan.io//address/0x15fb6e5c77edf75e341320a4c61abdb805b7291e?tab=contract)
+#### [Flow EVM Automation Contract](https://evm-testnet.flowscan.io/address/0x15fb6e5c77EdF75E341320A4c61abdB805b7291e?tab=contract)
 
 ### Morph
-#### Deploy on xxxx
-1. [Link](link)
+#### [Morph Holesky Escrow Factory](https://explorer-api-holesky.morphl2.io/address/0x03ff4a691e5d09451d6e8a398d15f21a524765e7)
+#### [Morph Holesky Automation Contract](https://explorer-api-holesky.morphl2.io/address/0x15fb6e5c77edf75e341320a4c61abdb805b7291e)
 
 ### Reown
 #### Deploy on xxxx

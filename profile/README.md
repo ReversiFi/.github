@@ -22,7 +22,7 @@
 
 ## 📖 Introduction
 
-ReversiFi is designed to provide businesses with a simple and secure way to integrate crypto payments into their marketplace apps. With a non-custodial architecture, the SDK ensures that users retain full control over their private keys, eliminating custodial risks while enhancing trust and security.
+ReversiFi is designed to provide businesses with a simple line of code to integrate crypto payments into their marketplace apps. With a non-custodial architecture, the SDK ensures that users retain full control over their private keys, eliminating custodial risks while enhancing trust and security.
 
 ---
 
@@ -38,7 +38,7 @@ ReversiFi aims to address the major challenges faced in the crypto payment space
 
 ## 🎯 Vision
 
-We envision a future where crypto payments are seamlessly integrated into marketplace apps, delivering a secure, native, and user-friendly experience. ReversiFi aims to empower both businesses and their users, providing a robust solution for crypto transactions.
+ReversiFi a Non-custodial crypto payment SDK, delivering a secure, native, and user-friendly experience. ReversiFi aims to empower both businesses and their users, providing a useful solution for crypto payment.
 
 ---
 
@@ -47,34 +47,80 @@ We envision a future where crypto payments are seamlessly integrated into market
 ReversiFi stands out by offering a blend of simplicity, security, and customization:
 
 - **🛠️ Simplicity**: Integrate crypto payments into your app with as little as 5 lines of code.
-- **🔒 Security**: A non-custodial architecture ensures users retain control over their private keys, reducing security risks.
 - **🎨 Customization**: The SDK is flexible, allowing businesses to customize the payment experience to match their brand and needs.
+- **🔒 Security**: A non-custodial architecture ensures users retain control over their private keys, reducing security risks.
 
 ---
 
 ## ✨ Features
 
-- Non-custodial wallet system: Users hold their own private keys.
+- Non-custodial wallet system
 - Lightweight SDK with minimal code required for integration.
 - Full customization options for businesses to tailor the user experience.
 - Secure and privacy-focused, with no user data or private keys handled by businesses.
-- Supports a wide range of cryptocurrencies and tokens.
 
 ---
 
-### ⚒️ How It’s Made (ADD)
+## ⚒️Architecture
+We will use Grab as Example in this case. 
+<img width="776" alt="image" src="https://github.com/user-attachments/assets/94b77ade-2ee7-49d5-80ec-b8803886eef8">
+
 
 ---
 
-### The Stack (ADD)
+## The Stack
 
-- **Backend**: (Specify backend stack, e.g., Node.js, Python, etc.)
-- **Frontend**: (Specify frontend framework, e.g., React, Angular, etc.)
-- **Blockchain Integration**: (Specify blockchain technology, e.g., Ethereum, Solana, etc.)
-- **Security**: (Details on security practices and encryption used)
+- Next.js
+- Solidity
+- React
+- Typescript
 
 ---
 
-### Sponsor Prizes (ADD)
+## Sponsor Prizes (ADD)
+
+### Hedera
+#### EVM Starter Bounty
+1. [Link](link)
+
+### Rootstock
+#### Deploy on xxxx
+1. [Link](link)
+
+### Flow
+#### Deploy on xxxx
+1. [Link](link)
+
+### Linea
+#### Deploy on xxxx
+1. [Link](link)
+
+### Morph
+#### Deploy on xxxx
+1. [Link](link)
+
+### Reown
+#### Deploy on xxxx
+1. [Link](link)
+
+### Dynamic
+#### Deploy on xxxx
+1. [Link](link)
+
+### Chainlink
+#### Deploy on xxxx
+1. [Link](link)
+
+### ENS
+#### Deploy on xxxx
+1. [Link](link)
+
+### Circle
+#### Deploy on xxxx
+1. [Link](link)
+
+### Worldcoin
+#### Deploy on xxxx
+1. [Link](link)
 
 

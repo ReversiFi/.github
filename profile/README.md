@@ -75,9 +75,6 @@ We will use Grab as Example in this case.
 
 ## Sponsor Prizes (ADD)
 
-### Hedera
-#### EVM Starter Bounty
-1. [Link](link)
 ### Linea
 #### [Linea Sepolia Escrow Factory](https://sepolia.lineascan.build/address/0xcc46df1620Bb0Afb9cfaeDA385131C3e0ef293ab#code)
 #### [Linea Sepolia Automation Contract](https://sepolia.lineascan.build/address/0x330dfC3dF587E6cA008f570cFACBaB0b1080206C#code)
@@ -95,27 +92,19 @@ We will use Grab as Example in this case.
 #### [Morph Holesky Automation Contract](https://explorer-api-holesky.morphl2.io/address/0x15fb6e5c77edf75e341320a4c61abdb805b7291e)
 
 ### Reown
-#### Deploy on xxxx
-1. [Link](link)
+#### Used for social login and embedded wallet in the dashboard(https://github.com/ReversiFi/dashboard/blob/main/context/web3modal.tsx)
 
 ### Dynamic
-#### Deploy on xxxx
-1. [Link](link)
+#### [Dynamic Implementation](https://github.com/ReversiFi/sdk/blob/main/src/index.js)
 
 ### Chainlink
-#### Deploy on xxxx
-1. [Link](link)
+#### [Using automated nodes to release funds](https://github.com/ReversiFi)
 
 ### ENS
-#### Deploy on xxxx
-1. [Link](link)
+#### [ENS Implementation](https://github.com/ReversiFi/dashboard/blob/main/src/app/MainPage/components/Preview.tsx)
 
 ### Circle
-#### Deploy on xxxx
-1. [Link](link)
+#### [Circle Implmentation](https://github.com/ReversiFi)
 
-### Worldcoin
-#### Deploy on xxxx
-1. [Link](link)
 
 

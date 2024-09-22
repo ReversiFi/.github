@@ -92,7 +92,7 @@ We will use Grab as Example in this case.
 #### [Morph Holesky Automation Contract](https://explorer-api-holesky.morphl2.io/address/0x15fb6e5c77edf75e341320a4c61abdb805b7291e)
 
 ### Reown
-#### Used for social login and embedded wallet in the dashboard(https://github.com/ReversiFi/dashboard/blob/main/context/web3modal.tsx)
+#### [Used for social login and embedded wallet in the dashboard](https://github.com/ReversiFi/dashboard/blob/main/context/web3modal.tsx)
 
 ### Dynamic
 #### [Dynamic Implementation](https://github.com/ReversiFi/sdk/blob/main/src/index.js)
